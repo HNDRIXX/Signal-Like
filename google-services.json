@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305141103659",
+    "project_id": "hndrx-app",
+    "storage_bucket": "hndrx-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305141103659:android:8a2e826bfbb13f2fac3e6e",
+        "android_client_info": {
+          "package_name": "com.hndrx022.SignalLike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305141103659-d7j9m5cat135d4nk46lgeblnkjqrmrmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hndrx022.SignalLike",
+            "certificate_hash": "da231d6b7944cb5e039a64c20597371a02d5c4f7"
+          }
+        },
+        {
+          "client_id": "305141103659-9kgigu9r1nmcvufr09e1i0vf2v38st0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH_UcQF6-7f1xTb_RhSdNIqOAr1zTG-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305141103659-9kgigu9r1nmcvufr09e1i0vf2v38st0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

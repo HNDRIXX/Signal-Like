@@ -1,0 +1,1 @@
+export const mobileContent = require('./assets/images/mobileContent.png');
